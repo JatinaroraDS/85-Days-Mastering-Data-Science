@@ -19,6 +19,9 @@ With **85 days** remaining until my Master's degree phase officially begins on *
 - [x] **Day 3 (10 Oct):** Completed upGrad Median modules. Solved 5 tracking problems (3 practice + 2 quiz questions) using a custom [Google Sheet Validation Tracker](https://docs.google.com/spreadsheets/d/1jAwN0ZXDTt2MJFEKcPbVRMdy-l-uPVlgoHB7coHnhBo/edit?gid=1682408441#gid=1682408441) to isolate data duplicates, then automated the sorting logic via `Day_3_median_master.py`.
 - [x] **Days 4 & 5 (11-12 Oct):** Cleared upGrad Measures of Dispersion intro. Launched a RevOps pilot case study in `Day_4_dispersion.py` to calculate Range and Standard Deviation, proving how variance exposes workflow inconsistencies that raw averages hide.
  - [x] **Day 6 (13 Oct):** Explored Geographic Product Differentiation and localized supply chain constraints using upGrad PESTLE modules. Contextualized real-world field observations (Momo soup regional distribution & Gurugram vs. CP FMCG price discrimination models). Built `Day_6_geographic_catalog_filtering_logic_Track_B.py` to calculate geographic net profit margins and automate media streaming restriction filters using vectorized conditional mapping loops (`np.where`) in Pandas.
+ - [ ] - [x] **Day 7 (14 Oct):** Mastered upGrad corporate Value Proposition mapping models. Built an interactive string-lookup engine (`Day_7_value_props.ipynb`) using Pandas and custom user inputs (`input()`), engineering localized string cleaning frameworks (`.strip()`) to process text queries and handle structural error fallbacks dynamically.
+- [ ] **Day 8 (15 Oct):** Target: Driven by upcoming upGrad portal modules.
+
 
  
 
